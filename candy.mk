@@ -15,3 +15,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_NAME := candy_d2spr
 PRODUCT_DEVICE := d2spr
 
+# Unofficial build ID
+TARGET_UNOFFICIAL_BUILD_ID := perseus
